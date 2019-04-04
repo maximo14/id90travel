@@ -1,0 +1,30 @@
+.center-container-item{ 
+    display: flex;
+    justify-content: center;
+}
+.my-content{   
+    margin-top:5%;
+}
+.btn-go-login{
+    margin-top: 5%;
+}
+.my-form-content{
+    width: 350px; 
+    padding: 10px 10px 10px 10px;
+    border-radius: 3%;
+    color: white;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;    
+}
+
+.mg-botton{
+    margin-bottom: 20px;
+}
+
+.title{
+    margin-bottom: 50px;
+}

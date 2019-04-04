@@ -1,0 +1,15 @@
+{
+    "name": "usuario/dos",
+    "description": "Prueba Tecnica",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maximo Fiora",
+            "email": "maxi.fiora14@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
